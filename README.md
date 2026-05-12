@@ -2,7 +2,7 @@
 
 ## Sauerteig
 
-Der Sauerteig ist es gewohnt im Kühlschrank zu leben. Dort kommt er bis zu 4 Wochen ohne Fütterung aus. Es ist also ratsam sich den Tag der letzten Fütterung zu notieren (z.B. auf einem kleinen Zettel den man unter das Glas legt).
+Der Sauerteig wurde aus Roggenmehl und Wasser 2019 selbst gezogen und ist es gewohnt im Kühlschrank zu leben. Dort kommt er mittlerweile bis zu 4 Wochen ohne Fütterung aus. Es ist also ratsam sich den Tag der letzten Fütterung zu notieren (z.B. auf einem kleinen Zettel den man unter das Glas legt).
 
 ## Der Vorteig
 
