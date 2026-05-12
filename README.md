@@ -4,7 +4,7 @@
 
 Der Sauerteig wurde aus Roggenmehl und Wasser 2019 selbst gezogen und ist es gewohnt im Kühlschrank zu leben. Dort kommt er mittlerweile bis zu 4 Wochen ohne Fütterung aus. Es ist also ratsam sich den Tag der letzten Fütterung zu notieren (z.B. auf einem kleinen Zettel den man unter das Glas legt).
 
-## Der Vorteig
+## 1. Der Vorteig
 
 ### Zutaten vom Vorteig
 * 150g Sauerteig im Glas
@@ -27,7 +27,7 @@ Muss ich unbedingt Roggenmehl nehmen?
 
 Ein Sauerteig sollte stets mit der gleichen Mehlsorte gefüttert werden. Statt normalen Roggenmehl kann man auch Vollkornroggenmehl verwenden. Bei Vollkornmehl braucht es jedoch etwas mehr Wasser als Mehl (also z.B. 225g Mehl und 275g Wasser). Wenn du einen neuen Sauerteig ziehst, kannst du auch mit anderen Mehlsorten experimentieren.
 
-## Das Brot
+## 2. Das Brot
 
 ### Grundzutaten pro Brot
 * 500g Vorteig
@@ -36,28 +36,36 @@ Ein Sauerteig sollte stets mit der gleichen Mehlsorte gefüttert werden. Statt n
 * 200g Wasser
 * 12g Salz
 
-Es können auch andere Mehlsorten wie Weizen oder Roggen verwendet werden. Wichtig ist, dass man bei einem höheren Anteil an Vollkornmehl die Wassermenge erhöht und bei einem geringeren Anteil verringert. Wenn nur Vollkornmehl verwendet wird (also 500g), dann würde ich etwa 225g Wasser empfehlen.
+Muss es unbedingt Dinkelmehl sein?
+
+Es können auch andere Mehlsorten wie Weizen oder Roggen verwendet werden. Wichtig ist, dass man bei einem höheren Anteil an Vollkornmehl die Wassermenge erhöht und bei einem geringeren Anteil verringert. Wenn nur Vollkornmehl verwendet wird (also 500g), dann würde ich etwa 225g Wasser empfehlen. Wenn du noch nicht so oft Brot gebacken hast, solltest du dich erst mal an das obige Verhältnis aus Vollkornmehl und normalen Mehl halten halten.
 
 ### Optionale Zutaten
 
-* 1 EL gemahlener Kümmel
+* 1 EL gemahlener Kümmel macht das Brot aromatische und bekömmlicher
 * 150g Körner/Nüsse + ca. 50g Wasser (z.B. Kürbiskerne, Sonnenblumenkerne, Sesam, schwarzer Sesam, Mohn, Leinsamen, Chia, Hirse, Walnüsse, Haselnüsse oder Mischungen davon)
+* 5-10g Öl für eine glattere Oberfläche
 
-Kleine Körner haben eine größere Oberfläche und nehmen tendenziell mehr Wasser auf als große Körner. Die Menge vom Wasser solltest du entsprechend anpassen im Bereich von 25g bis 75g.
+Was muss ich bei Körnern und Nüssen beachten?
+
+Kleine Körner haben eine größere Oberfläche und nehmen tendenziell mehr Wasser auf als große Körner. Die Menge vom Wasser solltest du entsprechend anpassen im Bereich von 25g (nur große Körner) bis 75g (nur kleine Körner).
 
 ### Zubereitung vom Brot
 
 1. Am nächsten Morgen sollte der Vorteig auf die doppelte bis dreifache Höhe angewachsen sein. Vom Vorteig musst du nun als erstes 150g Sauerteig in ein Glas abfüllen und in den Kühlschrank stellen. Das Glas sollte etwa 2/3 Luft enthalten, da der Sauerteig auch im Kühlschrank noch mal gehen wird. Das Datum der Fütterung auf einem Zettel notieren.
 2. In der Rührschüssel befinden sich nun noch ca. 500g Vorteig (bei 2 Broten vorher halbieren) und hier kannst du direkt alle Zutaten (Grundzutaten und optionale Zutaten) hinzugeben. Das Verhältnis von Wasser zu Mehl ist entscheidend, sodass es sich empfiehlt alle Zutaten abzuwiegen. Die Küchenmaschine sollte nun für 5-10 Minuten laufen um einen möglichst homogenen Teig zu erzeugen.
 3. Den Teig in der Rührschüssel abdecken und bei Zimmertemparatur für 2-3h gehen lassen. Der Teig sollte dann auf die doppelte bis dreifache Höhe anwachsen.
-4. Die Arbeitsplatte mit Mehl bedecken und den Teig per Hand für etwa 5 Minuten kneten. Wenn alles geklappt hat, ist der Teig sehr klebrig. Ziel ist es, dass außen genug Mehl ist, dass die Hände nicht kleben bleiben und der Teig innen aber möglichst wenig Mehl aufnimmt. Dafür von außen
-  nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine Falte entsteht. Dann einen Laib formen und ihn mit der Falte nach oben in einen Gärkorb legen. Wenn kein Gärkorb zur Verfügung steht, funktioniert folgende Schichtreihenfolge: Nudelsieb, Tuch, Brotteig. Hier nochmals mit einem Tuch abdecken und 45 bis 60 Minuten gehen lassen.
-5. Ofen vorheizen auf 200°C bei Ober- und Unterhitze. Eine kleine Auflaufform oder feuerfeste Schale etwa 2cm hoch mit Wasser befüllen und unten in den Ofen stellen, damit das Brot außen nicht zu schnell fest wird und einreißt.
-6. Den Gärkorb auf ein mit Backpapier ausgelegtes Rost oder Backblech auskippen, sodass die Falte nun unten ist. Das Brot oben ca. 1-2cm tief einsschneiden - entweder ein mal längs oder drei mal im 45° Winkel. (Wenn das Brot an den Seiten einreißt, beim nächsten Backen tiefer einschneiden.)
+4. Die Arbeitsplatte mit Mehl bedecken und den Teig für etwa 5 Minuten per Hand kneten. Wenn alles geklappt hat, ist der Teig sehr klebrig. Ziel ist es, dass außen genug Mehl ist, dass die Hände nicht kleben bleiben und der Teig innen aber möglichst wenig Mehl aufnimmt. Dafür von außen nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine Falte entsteht. Dann einen Laib formen und ihn mit der Falte nach oben in einen Gärkorb legen. Wenn kein Gärkorb zur Verfügung steht, funktioniert folgende Schichtreihenfolge: Nudelsieb, Tuch, Brotteig. Hier nochmals mit einem Tuch abdecken und 45 bis 60 Minuten gehen lassen.
+5. Ofen vorheizen auf 200°C bei Ober- und Unterhitze. (Bei Umluft wird das Brot sehr knusprig und reißt schneller ein.) Eine kleine Auflaufform oder feuerfeste Schale etwa 2cm hoch mit Wasser befüllen und unten in den Ofen stellen, damit das Brot außen nicht zu schnell fest wird und einreißt.
+6. Den Gärkorb auf ein mit Backpapier ausgelegtes Rost oder Backblech auskippen, sodass die Falte nun unten ist. Das Brot oben ca. 1-2cm tief einsschneiden - entweder ein mal längs oder drei mal im 45° Winkel. (Wenn das Brot später an den Seiten einreißt, beim nächsten Backen tiefer einschneiden.)
 7. Das Brot für 60 Minuten backen. Bei zwei Broten verlängert sich die Backzeit um etwa 5 Minuten.
 8. Das Brot aus dem Ofen nehmen und für mindestens eine Stunde auf einem Rost auskühlen lassen. Dabei gart es innen noch etwas nach.
 
-Das Brot schmeckt natürlich frisch am besten. Wenn man das restliche Brot am gleichen Tag aufschneidet und einfriert, kann man es jederzeit im Toaster portionsweise wieder auftauen und genießen.
+Wie lange hält sich das Brot?
+
+Das Brot schmeckt natürlich frisch am besten. Im Vergleich zu einem Bäckerbrot wird es oft schneller alt und trocken. Wenn man das restliche Brot am gleichen Tag aufschneidet und einfriert, kann man es jederzeit im Toaster portionsweise wieder auftauen und genießen.
+
+Woran liegt es wenn das Brot zu fest oder zu flach ist?
 
 Das schwierigste am Brotbacken ist das richtige Verhältnis aus Wasser und Mehl hinzubekommen. Wenn das Brot im Ofen zerläuft und sehr flach wird, dann beim nächsten Mal etwas weniger Wasser verwenden. Wenn das Brot zu fest wird, dann braucht es meißt mehr Wasser oder mehr Zeit zum Gehen.
 
