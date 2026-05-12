@@ -1,28 +1,35 @@
 # Bedienungsanleitung Thümian-Sauerteigbrot
 
-## Anstellgut
+## Sauerteig
 
-Nach 14 Tagen muss der Teig gefüttert werden. Wenn kein
-Brot gebacken werden soll, den Teig teilen und jeweils mit 40g Mehl und 40ml
-Wasser mischen.
+Der Sauerteig ist es gewohnt im Kühlschrank zu leben. Dort kommt er bis zu 4 Wochen ohne Fütterung aus. Es ist also ratsam sich den Tag der letzten Fütterung zu notieren (z.B. auf einem kleinen Zettel den man unter das Glas legt).
 
 ## Vorteig
 
-### Zutaten
-* 150g Anstellgut
-* 250g Roggenmehl
-* ca 275-300ml Wasser
+### Zutaten vom Vorteig
+* 150g Sauerteig im Glas
+* 250g Roggenmehl (pro Brot)
+* ca. 275g Wasser (250g pro Brot und 25g zum Verdunsten)
 
-### Zubereitung
+### Zubereitung vom Vorteig
 
-* Die Zutaten vermischen und über Nacht ruhen lassen.
-* Am nächsten Tag 150g Teig abnehmen. Diese können vor der nächsten Verwendung
-  zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
-  altern.
-* Die restlichen 500g der Masse zu Brot verarbeiten.
+Der Vorteig wird am Vortag zubereitet, damit sich der Sauerteig in Ruhe regenerieren und vermehren kann. Die Zubereitung beginnt man etwa einen Tag bevor das Brot gegessen werden soll, also z.B. am Abend vorher. Der Sauerteig darf sehr sauer riechen aber es darf kein Schimmel an der Oberfläche sein.
+
+1. Eine Rührschüssel auf eine Waage stellen und das Roggenmehl abwiegen. Deine Waage zeigt dann 250g für ein Brot und 500g für zwei Brote.
+2. Als nächstes kommt der Sauerteig in die Rührschüssel. Da der Sauerteig sein Glas sehr mag, hilft es das Glas in 2-3 Durchgängen mit Wasser auszuspülen. Dafür etwas lauwarmes Wasser in das Glas füllen, schütteln und dann in die Rührschüssel gießen. Den Vorgang wiederholen bis die Waage 675g für ein Brot bzw. 1175g für zwei Brote anzeigt. Das restliche Wasser einfach wegkippen und das Glas für die nächste Verwendung im Geschirrspüler reinigen.
+3. Die Zutaten mit Knethaken vermischen bis kein Mehl mehr zu sehen ist und über Nacht bei Zimmertemparatur ruhen lassen. Da wir die Knethaken am nächsten Tag noch brauchen, kann die Schüssel einfach in der Küchenmaschine mit einem Tuch abgedeckt werden. (Wenn dich oder deine Mitbewohner der saure Geruch stört, kannst du die Schüssel auch in eine Plastiktüte stellen. Dann ggfs. die Wassermenge reduzieren, weil dann weniger verdunstet.)
+
+Was mache ich, wenn der Teig nicht richtig aufgeht?
+
+Nach etwa 12 Stunden sollte der Vorteig auf die doppelte oder dreifache Größe angewachsen sein. Wenn das nicht geklappt hat, Stand er zu kühl oder dem Sauerteig geht es nicht gut. Wenn der Sauerteig mal länger als ca. 3 Wochen im Kühlschrank war ohne Fütterung, braucht er ggfs. mehr Zeit sich zu regenerieren. Dann kannst du eher starten (z.B. 24 Stunden eher als sonst). Zwei mal am Tag füttert man den Teig mit ca. 50g Mehl und 50g Wasser. So kannst du dir auch einen neuen Teig ziehen, aber das dauert dann etwa 4 Wochen bei Zimmertemparatur bis aus Mehl und Wasser ein richtiger Sauerteig geworden ist.
+
+Muss ich unbedingt Roggenmehl nehmen?
+
+Ein Sauerteig sollte stets mit der gleichen Mehlsorte gefüttert werden. Statt normalen Roggenmehl kann man auch Vollkornroggenmehl verwenden. Bei Vollkornmehl braucht es jedoch etwas mehr Wasser als Mehl (also z.B. 225g Mehl und 275g Wasser). Wenn du einen neuen Sauerteig ziehst, kannst du auch mit anderen Mehlsorten experimentieren.
 
 ## Das Brot
-### Zutaten
+
+### Zutaten pro Brot
 * 500g Vorteig
 * 300g Roggenmehl
 * 200g Weizenmehl / Dinkelmehl (Mehlsorten beliebig kombinierbar)
@@ -36,8 +43,14 @@ Zutaten, die Wasser aufnehmen, können über Nacht in Wasserbad feuchtigkeit zie
 * 150g Chia Samen + 50ml Wasser
 * 150g Hirse + 50ml Wasser
 
-### Zubereitung
+### Zubereitung vom Brot
 
+* 
+* Das Glas sollte im Geschirrspüler gereinigt werden
+* Am nächsten Tag 150g Teig abnehmen. Diese können vor der nächsten Verwendung
+  zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
+  altern.
+* Die restlichen 500g der Masse zu Brot verarbeiten.
 * Die Zutaten gut vermischen. Der Teig muss klebrig sein.
 * 1-3h abgedeckt in der Rührschüssel bei Zimmertemperatur gehen lassen
 * Auf der Arbeitsplatte mit viel Mehl den Teig zusammenstoßen und von außen
