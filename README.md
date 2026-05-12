@@ -4,7 +4,7 @@
 
 Der Sauerteig ist es gewohnt im Kühlschrank zu leben. Dort kommt er bis zu 4 Wochen ohne Fütterung aus. Es ist also ratsam sich den Tag der letzten Fütterung zu notieren (z.B. auf einem kleinen Zettel den man unter das Glas legt).
 
-## Vorteig
+## Der Vorteig
 
 ### Zutaten vom Vorteig
 * 150g Sauerteig im Glas
@@ -29,59 +29,38 @@ Ein Sauerteig sollte stets mit der gleichen Mehlsorte gefüttert werden. Statt n
 
 ## Das Brot
 
-### Zutaten pro Brot
+### Grundzutaten pro Brot
 * 500g Vorteig
-* 300g Roggenmehl
-* 200g Weizenmehl / Dinkelmehl (Mehlsorten beliebig kombinierbar)
-* 200ml Wasser.
+* 350g Dinkelvollkornmehl
+* 150g Dinkelmehl
+* 200g Wasser
 * 12g Salz
 
-### Optionale Zutaten:
-Zutaten, die Wasser aufnehmen, können über Nacht in Wasserbad feuchtigkeit ziehen. Dann muss man nicht extra Wasser zum Teig hinzufügen und der Teig wird nicht noch klebriger)
+Es können auch andere Mehlsorten wie Weizen oder Roggen verwendet werden. Wichtig ist, dass man bei einem höheren Anteil an Vollkornmehl die Wassermenge erhöht und bei einem geringeren Anteil verringert. Wenn nur Vollkornmehl verwendet wird (also 500g), dann würde ich etwa 225g Wasser empfehlen.
 
-* 1 EL Kümmel
-* 150g Chia Samen + 50ml Wasser
-* 150g Hirse + 50ml Wasser
+### Optionale Zutaten
+
+* 1 EL gemahlener Kümmel
+* 150g Körner/Nüsse + ca. 50g Wasser (z.B. Kürbiskerne, Sonnenblumenkerne, Sesam, schwarzer Sesam, Mohn, Leinsamen, Chia, Hirse, Walnüsse, Haselnüsse oder Mischungen davon)
+
+Kleine Körner haben eine größere Oberfläche und nehmen tendenziell mehr Wasser auf als große Körner. Die Menge vom Wasser solltest du entsprechend anpassen im Bereich von 25g bis 75g.
 
 ### Zubereitung vom Brot
 
-* 
-* Das Glas sollte im Geschirrspüler gereinigt werden
-* Am nächsten Tag 150g Teig abnehmen. Diese können vor der nächsten Verwendung
-  zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
-  altern.
-* Die restlichen 500g der Masse zu Brot verarbeiten.
-* Die Zutaten gut vermischen. Der Teig muss klebrig sein.
-* 1-3h abgedeckt in der Rührschüssel bei Zimmertemperatur gehen lassen
-* Auf der Arbeitsplatte mit viel Mehl den Teig zusammenstoßen und von außen
-  nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine
-  Falte entsteht.
-* Einen Laib formen und diesen mit der eingerissenen Seite nach unten (ggf. mit dem Messer Schnitte
-  einfügen) in einem Gärkorb nochmals 1-3h gehen lassen. Wenn kein Gärkorb zur Verfügung steht, funktioniert folgende Schichtreihenfolge: Nudelsieb, (frisches!) Tuch, Mehl, Brotteig.
-* Den Gärkorb auf dem Backblech "auskippen" und so den Laib auf das Backblech legen.
-* Bei 200°C mit Ober- und Unterhitze 60 Minuten ausbacken, bis das Brot hohl
-  klingt oder 40 Minuten ausbacken und weitere 40 Minuten im geschlossenen Ofen
-  ruhen lassen. *TIPP*: Im Schwaden backen: bereits beim Vorheizen des Ofens ein 
-  Schälchen Wasser in den Ofen stellen und während des Backvorgangs im Ofen stehen
-  lassen. Das Brot geht dann besser auf.
-* Das Brot dem Ofen entnehmen und auf einem Rost auskühlen lassen.
+1. Am nächsten Morgen sollte der Vorteig auf die doppelte bis dreifache Höhe angewachsen sein. Vom Vorteig musst du nun als erstes 150g Sauerteig in ein Glas abfüllen und in den Kühlschrank stellen. Das Glas sollte etwa 2/3 Luft enthalten, da der Sauerteig auch im Kühlschrank noch mal gehen wird. Das Datum der Fütterung auf einem Zettel notieren.
+2. In der Rührschüssel befinden sich nun noch ca. 500g Vorteig (bei 2 Broten vorher halbieren) und hier kannst du direkt alle Zutaten (Grundzutaten und optionale Zutaten) hinzugeben. Das Verhältnis von Wasser zu Mehl ist entscheidend, sodass es sich empfiehlt alle Zutaten abzuwiegen. Die Küchenmaschine sollte nun für 5-10 Minuten laufen um einen möglichst homogenen Teig zu erzeugen.
+3. Den Teig in der Rührschüssel abdecken und bei Zimmertemparatur für 2-3h gehen lassen. Der Teig sollte dann auf die doppelte bis dreifache Höhe anwachsen.
+4. Die Arbeitsplatte mit Mehl bedecken und den Teig per Hand für etwa 5 Minuten kneten. Wenn alles geklappt hat, ist der Teig sehr klebrig. Ziel ist es, dass außen genug Mehl ist, dass die Hände nicht kleben bleiben und der Teig innen aber möglichst wenig Mehl aufnimmt. Dafür von außen
+  nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine Falte entsteht. Dann einen Laib formen und ihn mit der Falte nach oben in einen Gärkorb legen. Wenn kein Gärkorb zur Verfügung steht, funktioniert folgende Schichtreihenfolge: Nudelsieb, Tuch, Brotteig. Hier nochmals mit einem Tuch abdecken und 45 bis 60 Minuten gehen lassen.
+5. Ofen vorheizen auf 200°C bei Ober- und Unterhitze. Eine kleine Auflaufform oder feuerfeste Schale etwa 2cm hoch mit Wasser befüllen und unten in den Ofen stellen, damit das Brot außen nicht zu schnell fest wird und einreißt.
+6. Den Gärkorb auf ein mit Backpapier ausgelegtes Rost oder Backblech auskippen, sodass die Falte nun unten ist. Das Brot oben ca. 1-2cm tief einsschneiden - entweder ein mal längs oder drei mal im 45° Winkel. (Wenn das Brot an den Seiten einreißt, beim nächsten Backen tiefer einschneiden.)
+7. Das Brot für 60 Minuten backen. Bei zwei Broten verlängert sich die Backzeit um etwa 5 Minuten.
+8. Das Brot aus dem Ofen nehmen und für mindestens eine Stunde auf einem Rost auskühlen lassen. Dabei gart es innen noch etwas nach.
 
+Das Brot schmeckt natürlich frisch am besten. Wenn man das restliche Brot am gleichen Tag aufschneidet und einfriert, kann man es jederzeit im Toaster portionsweise wieder auftauen und genießen.
 
-# Was schief gehen kann
+Das schwierigste am Brotbacken ist das richtige Verhältnis aus Wasser und Mehl hinzubekommen. Wenn das Brot im Ofen zerläuft und sehr flach wird, dann beim nächsten Mal etwas weniger Wasser verwenden. Wenn das Brot zu fest wird, dann braucht es meißt mehr Wasser oder mehr Zeit zum Gehen.
 
-## Mein Brot macht plong!
+# Fragen oder Anmerkungen?
 
-Nimm mehr Wasser
-
-## Mein Brot schmeckt sauer
-
-Gehzeiten einhalten und nicht deutlich länger gehen lassen
-
-## Mein Brot geht wenig auf
-
-Gehzeiten einhalten, nach dem Auskippen aus dem Gärkorb möglichst wenig formen. 
-
-## Mein Brot reißt an der Seite auf
-
-Auf der Oberseite tiefere Schnitte mit dem Messer einbringen.
-
+Fragen oder Anmerkungen könnt ihr gern hier loswerden: https://github.com/tthuem/Thuemian-Sauerteigbrot/issues/new
